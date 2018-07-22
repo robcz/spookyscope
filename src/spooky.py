@@ -1,10 +1,10 @@
 import Imager
-from PIL import Image as img
 import cv2
 import DnnRecognizer
 import numpy
-import tempfile
 import os
+import tempfile
+import sys
 
 # TODO: argument
 headless=False
